@@ -1,0 +1,11 @@
+J:\Project\OTUS\architekt\archtekt2\archtekt2_test\bin\Debug\archtekt2_test.dll
+J:\Project\OTUS\architekt\archtekt2\archtekt2_test\bin\Debug\archtekt2_test.pdb
+J:\Project\OTUS\architekt\archtekt2\archtekt2_test\bin\Debug\archtekt2.exe
+J:\Project\OTUS\architekt\archtekt2\archtekt2_test\bin\Debug\nunit.framework.dll
+J:\Project\OTUS\architekt\archtekt2\archtekt2_test\bin\Debug\archtekt2.pdb
+J:\Project\OTUS\architekt\archtekt2\archtekt2_test\bin\Debug\nunit.framework.xml
+J:\Project\OTUS\architekt\archtekt2\archtekt2_test\obj\Debug\archtekt2_test.csprojAssemblyReference.cache
+J:\Project\OTUS\architekt\archtekt2\archtekt2_test\obj\Debug\archtekt2_test.csproj.CoreCompileInputs.cache
+J:\Project\OTUS\architekt\archtekt2\archtekt2_test\obj\Debug\archtekt2_test.csproj.CopyComplete
+J:\Project\OTUS\architekt\archtekt2\archtekt2_test\obj\Debug\archtekt2_test.dll
+J:\Project\OTUS\architekt\archtekt2\archtekt2_test\obj\Debug\archtekt2_test.pdb

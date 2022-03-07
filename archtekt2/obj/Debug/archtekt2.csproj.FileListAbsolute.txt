@@ -1,0 +1,6 @@
+J:\Project\OTUS\architekt\archtekt2\archtekt2\bin\Debug\archtekt2.exe
+J:\Project\OTUS\architekt\archtekt2\archtekt2\bin\Debug\archtekt2.pdb
+J:\Project\OTUS\architekt\archtekt2\archtekt2\obj\Debug\archtekt2.csprojAssemblyReference.cache
+J:\Project\OTUS\architekt\archtekt2\archtekt2\obj\Debug\archtekt2.csproj.CoreCompileInputs.cache
+J:\Project\OTUS\architekt\archtekt2\archtekt2\obj\Debug\archtekt2.exe
+J:\Project\OTUS\architekt\archtekt2\archtekt2\obj\Debug\archtekt2.pdb
