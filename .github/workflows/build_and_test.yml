@@ -9,6 +9,6 @@ jobs:
       - uses: actions/setup-dotnet@v2.0.0
         with:
           dotnet-version: '3.1.x'
-      working-directory: archtekt2
+          working-directory: archtekt2
       - run: dotnet build archtekt2
       - run: dotnet test archtekt2_test
